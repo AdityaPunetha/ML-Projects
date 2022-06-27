@@ -8,7 +8,7 @@
   * TensorFlow
     * [CIFAR10](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-CIFAR10-GAN)
     * [Fashion MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-Fashion-MNIST-GAN)
-    * [Conditional Fashion MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-Fashion-MNIST-GAN)
+    * [Conditional Fashion MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-Fashion-MNIST-Conditional-GAN)
 
 
 Compiling multiple ML Projects repos into single one
