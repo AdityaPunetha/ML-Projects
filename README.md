@@ -1,5 +1,16 @@
 # ML-Projects
 
+## List
+
+* Generative Adversarial Networks
+  * PyTorch
+    * [MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/Pytorch-MNIST-GAN)
+  * TensorFlow
+    * [CIFAR10](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-CIFAR10-GAN)
+    * [Fashion MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-Fashion-MNIST-GAN)
+    * [Conditional Fashion MNIST](https://github.com/AdityaPunetha/ML-Projects/tree/main/TensorFlow-Fashion-MNIST-GAN)
+
+
 Compiling multiple ML Projects repos into single one
 ---
 If you want to merge project-a into project-b:
